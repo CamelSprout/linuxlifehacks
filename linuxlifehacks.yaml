@@ -1,12 +1,20 @@
 # Dust - shows how much space a given folder takes up
-sudo pacman -S dust
+"sudo pacman -S dust"
 
 # Midnight Commander
-sudo pacman -S mc
+"sudo pacman -S mc"
 
 # zfz - fuzzy finder
-sudo pacman -S fzf
+"sudo pacman -S fzf"
 
 # eza - better ls
-sudo pacman -S eza 
+"sudo pacman -S eza"
 
+# dysk - better lsblk 
+"sudo pacman -S dysk"
+
+# zoxide - better CD
+"sudo pacman -S zoxide"
+
+# ripgrep - better finder
+"sudo pacman -S ripgrep"
