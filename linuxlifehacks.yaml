@@ -21,3 +21,6 @@
 
 # dog - better dig
 "sudo pacman -S dog"
+
+# Bat - better cat
+"sudo pacman -S bat"
