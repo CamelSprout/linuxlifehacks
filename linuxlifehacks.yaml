@@ -7,3 +7,6 @@ sudo pacman -S mc
 # zfz - fuzzy finder
 sudo pacman -S fzf
 
+# eza - better ls
+sudo pacman -S eza 
+
